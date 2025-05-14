@@ -1,0 +1,912 @@
+[
+    {
+        "ITR": {
+            "ITR1": {
+                "CreationInfo": {
+                    "SWVersionNo": "1.0",
+                    "SWCreatedBy": "SW12340000",
+                    "JSONCreatedBy": "SW12340000",
+                    "JSONCreationDate": "2025-05-14",
+                    "IntermediaryCity": "Delhi",
+                    "Digest": "digest00xyzabcd1234567890abcdefghijklmnopqrst"
+                },
+                "PersonalInfo": {
+                    "AssesseeName": {
+                        "FirstName": "Person1",
+                        "MiddleName": "",
+                        "SurNameOrOrgName": "Surname1"
+                    },
+                    "PAN": "ABCD00001Z",
+                    "Address": {
+                        "ResidenceNo": "100",
+                        "Street": "Street 1",
+                        "CityOrTownOrDistrict": "CityName",
+                        "StateCode": "27",
+                        "PinCode": "400001"
+                    },
+                    "DOB": "1990-01-01",
+                    "EmployerCategory": "OTH",
+                    "AadhaarCardNo": "123456789000"
+                },
+                "ITR1_IncomeDeductions": {
+                    "GrossSalary": 500000,
+                    "Salary": 500000,
+                    "PerquisitesValue": 0,
+                    "ProfitsInSalary": 0,
+                    "IncomeNotified89A": 0,
+                    "NetSalary": 500000,
+                    "DeductionUs16": 50000,
+                    "AnnualValue": 0,
+                    "StandardDeduction": 0,
+                    "IncomeFromSal": 450000,
+                    "TotalIncomeOfHP": 0,
+                    "IncomeOthSrc": 10000,
+                    "GrossTotIncome": 460000,
+                    "UsrDeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000
+                    },
+                    "DeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000,
+                        "TotalChapVIADeductions": 125000
+                    },
+                    "TotalIncome": 335000
+                },
+                "ITR1_TaxComputation": {
+                    "TotalTaxPayable": 5000,
+                    "Rebate87A": 0,
+                    "TaxPayableOnRebate": 5000,
+                    "EducationCess": 200,
+                    "GrossTaxLiability": 5200,
+                    "Section89": 0,
+                    "NetTaxLiability": 5200,
+                    "TotalIntrstPay": 0,
+                    "IntrstPay": {},
+                    "TotTaxPlusIntrstPay": 5200
+                },
+                "TaxPaid": {
+                    "TaxesPaid": {
+                        "AdvanceTax": 3000,
+                        "SelfAssessmentTax": 2200
+                    },
+                    "BalTaxPayable": 0
+                },
+                "Refund": {
+                    "RefundDue": 0,
+                    "BankAccountDtls": {
+                        "AccountNumber": "XXXXXXXXXXXX1234",
+                        "IFSCCode": "HDFC0000000",
+                        "BankName": "HDFC Bank"
+                    }
+                },
+                "Verification": {
+                    "Declaration": {
+                        "Name": "Person1 Surname1",
+                        "FatherName": "Father1",
+                        "Capacity": "Self"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "ITR": {
+            "ITR1": {
+                "CreationInfo": {
+                    "SWVersionNo": "1.0",
+                    "SWCreatedBy": "SW12340001",
+                    "JSONCreatedBy": "SW12340001",
+                    "JSONCreationDate": "2025-05-14",
+                    "IntermediaryCity": "Delhi",
+                    "Digest": "digest01xyzabcd1234567890abcdefghijklmnopqrst"
+                },
+                "PersonalInfo": {
+                    "AssesseeName": {
+                        "FirstName": "Person2",
+                        "MiddleName": "",
+                        "SurNameOrOrgName": "Surname2"
+                    },
+                    "PAN": "ABCD00002Z",
+                    "Address": {
+                        "ResidenceNo": "101",
+                        "Street": "Street 2",
+                        "CityOrTownOrDistrict": "CityName",
+                        "StateCode": "27",
+                        "PinCode": "400002"
+                    },
+                    "DOB": "1991-01-01",
+                    "EmployerCategory": "OTH",
+                    "AadhaarCardNo": "123456789001"
+                },
+                "ITR1_IncomeDeductions": {
+                    "GrossSalary": 510000,
+                    "Salary": 510000,
+                    "PerquisitesValue": 0,
+                    "ProfitsInSalary": 0,
+                    "IncomeNotified89A": 0,
+                    "NetSalary": 510000,
+                    "DeductionUs16": 50000,
+                    "AnnualValue": 0,
+                    "StandardDeduction": 0,
+                    "IncomeFromSal": 460000,
+                    "TotalIncomeOfHP": 0,
+                    "IncomeOthSrc": 10500,
+                    "GrossTotIncome": 470500,
+                    "UsrDeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000
+                    },
+                    "DeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000,
+                        "TotalChapVIADeductions": 125000
+                    },
+                    "TotalIncome": 345500
+                },
+                "ITR1_TaxComputation": {
+                    "TotalTaxPayable": 6000,
+                    "Rebate87A": 0,
+                    "TaxPayableOnRebate": 6000,
+                    "EducationCess": 250,
+                    "GrossTaxLiability": 6250,
+                    "Section89": 0,
+                    "NetTaxLiability": 6250,
+                    "TotalIntrstPay": 0,
+                    "IntrstPay": {},
+                    "TotTaxPlusIntrstPay": 6250
+                },
+                "TaxPaid": {
+                    "TaxesPaid": {
+                        "AdvanceTax": 3500,
+                        "SelfAssessmentTax": 2750
+                    },
+                    "BalTaxPayable": 0
+                },
+                "Refund": {
+                    "RefundDue": 0,
+                    "BankAccountDtls": {
+                        "AccountNumber": "XXXXXXXXXXXX1235",
+                        "IFSCCode": "HDFC0000001",
+                        "BankName": "HDFC Bank"
+                    }
+                },
+                "Verification": {
+                    "Declaration": {
+                        "Name": "Person2 Surname2",
+                        "FatherName": "Father2",
+                        "Capacity": "Self"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "ITR": {
+            "ITR1": {
+                "CreationInfo": {
+                    "SWVersionNo": "1.0",
+                    "SWCreatedBy": "SW12340002",
+                    "JSONCreatedBy": "SW12340002",
+                    "JSONCreationDate": "2025-05-14",
+                    "IntermediaryCity": "Delhi",
+                    "Digest": "digest02xyzabcd1234567890abcdefghijklmnopqrst"
+                },
+                "PersonalInfo": {
+                    "AssesseeName": {
+                        "FirstName": "Person3",
+                        "MiddleName": "",
+                        "SurNameOrOrgName": "Surname3"
+                    },
+                    "PAN": "ABCD00003Z",
+                    "Address": {
+                        "ResidenceNo": "102",
+                        "Street": "Street 3",
+                        "CityOrTownOrDistrict": "CityName",
+                        "StateCode": "27",
+                        "PinCode": "400003"
+                    },
+                    "DOB": "1992-01-01",
+                    "EmployerCategory": "OTH",
+                    "AadhaarCardNo": "123456789002"
+                },
+                "ITR1_IncomeDeductions": {
+                    "GrossSalary": 520000,
+                    "Salary": 520000,
+                    "PerquisitesValue": 0,
+                    "ProfitsInSalary": 0,
+                    "IncomeNotified89A": 0,
+                    "NetSalary": 520000,
+                    "DeductionUs16": 50000,
+                    "AnnualValue": 0,
+                    "StandardDeduction": 0,
+                    "IncomeFromSal": 470000,
+                    "TotalIncomeOfHP": 0,
+                    "IncomeOthSrc": 11000,
+                    "GrossTotIncome": 481000,
+                    "UsrDeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000
+                    },
+                    "DeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000,
+                        "TotalChapVIADeductions": 125000
+                    },
+                    "TotalIncome": 356000
+                },
+                "ITR1_TaxComputation": {
+                    "TotalTaxPayable": 7000,
+                    "Rebate87A": 0,
+                    "TaxPayableOnRebate": 7000,
+                    "EducationCess": 300,
+                    "GrossTaxLiability": 7300,
+                    "Section89": 0,
+                    "NetTaxLiability": 7300,
+                    "TotalIntrstPay": 0,
+                    "IntrstPay": {},
+                    "TotTaxPlusIntrstPay": 7300
+                },
+                "TaxPaid": {
+                    "TaxesPaid": {
+                        "AdvanceTax": 4000,
+                        "SelfAssessmentTax": 3300
+                    },
+                    "BalTaxPayable": 0
+                },
+                "Refund": {
+                    "RefundDue": 0,
+                    "BankAccountDtls": {
+                        "AccountNumber": "XXXXXXXXXXXX1236",
+                        "IFSCCode": "HDFC0000002",
+                        "BankName": "HDFC Bank"
+                    }
+                },
+                "Verification": {
+                    "Declaration": {
+                        "Name": "Person3 Surname3",
+                        "FatherName": "Father3",
+                        "Capacity": "Self"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "ITR": {
+            "ITR1": {
+                "CreationInfo": {
+                    "SWVersionNo": "1.0",
+                    "SWCreatedBy": "SW12340003",
+                    "JSONCreatedBy": "SW12340003",
+                    "JSONCreationDate": "2025-05-14",
+                    "IntermediaryCity": "Delhi",
+                    "Digest": "digest03xyzabcd1234567890abcdefghijklmnopqrst"
+                },
+                "PersonalInfo": {
+                    "AssesseeName": {
+                        "FirstName": "Person4",
+                        "MiddleName": "",
+                        "SurNameOrOrgName": "Surname4"
+                    },
+                    "PAN": "ABCD00004Z",
+                    "Address": {
+                        "ResidenceNo": "103",
+                        "Street": "Street 4",
+                        "CityOrTownOrDistrict": "CityName",
+                        "StateCode": "27",
+                        "PinCode": "400004"
+                    },
+                    "DOB": "1993-01-01",
+                    "EmployerCategory": "OTH",
+                    "AadhaarCardNo": "123456789003"
+                },
+                "ITR1_IncomeDeductions": {
+                    "GrossSalary": 530000,
+                    "Salary": 530000,
+                    "PerquisitesValue": 0,
+                    "ProfitsInSalary": 0,
+                    "IncomeNotified89A": 0,
+                    "NetSalary": 530000,
+                    "DeductionUs16": 50000,
+                    "AnnualValue": 0,
+                    "StandardDeduction": 0,
+                    "IncomeFromSal": 480000,
+                    "TotalIncomeOfHP": 0,
+                    "IncomeOthSrc": 11500,
+                    "GrossTotIncome": 491500,
+                    "UsrDeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000
+                    },
+                    "DeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000,
+                        "TotalChapVIADeductions": 125000
+                    },
+                    "TotalIncome": 366500
+                },
+                "ITR1_TaxComputation": {
+                    "TotalTaxPayable": 8000,
+                    "Rebate87A": 0,
+                    "TaxPayableOnRebate": 8000,
+                    "EducationCess": 350,
+                    "GrossTaxLiability": 8350,
+                    "Section89": 0,
+                    "NetTaxLiability": 8350,
+                    "TotalIntrstPay": 0,
+                    "IntrstPay": {},
+                    "TotTaxPlusIntrstPay": 8350
+                },
+                "TaxPaid": {
+                    "TaxesPaid": {
+                        "AdvanceTax": 4500,
+                        "SelfAssessmentTax": 3850
+                    },
+                    "BalTaxPayable": 0
+                },
+                "Refund": {
+                    "RefundDue": 0,
+                    "BankAccountDtls": {
+                        "AccountNumber": "XXXXXXXXXXXX1237",
+                        "IFSCCode": "HDFC0000003",
+                        "BankName": "HDFC Bank"
+                    }
+                },
+                "Verification": {
+                    "Declaration": {
+                        "Name": "Person4 Surname4",
+                        "FatherName": "Father4",
+                        "Capacity": "Self"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "ITR": {
+            "ITR1": {
+                "CreationInfo": {
+                    "SWVersionNo": "1.0",
+                    "SWCreatedBy": "SW12340004",
+                    "JSONCreatedBy": "SW12340004",
+                    "JSONCreationDate": "2025-05-14",
+                    "IntermediaryCity": "Delhi",
+                    "Digest": "digest04xyzabcd1234567890abcdefghijklmnopqrst"
+                },
+                "PersonalInfo": {
+                    "AssesseeName": {
+                        "FirstName": "Person5",
+                        "MiddleName": "",
+                        "SurNameOrOrgName": "Surname5"
+                    },
+                    "PAN": "ABCD00005Z",
+                    "Address": {
+                        "ResidenceNo": "104",
+                        "Street": "Street 5",
+                        "CityOrTownOrDistrict": "CityName",
+                        "StateCode": "27",
+                        "PinCode": "400005"
+                    },
+                    "DOB": "1994-01-01",
+                    "EmployerCategory": "OTH",
+                    "AadhaarCardNo": "123456789004"
+                },
+                "ITR1_IncomeDeductions": {
+                    "GrossSalary": 540000,
+                    "Salary": 540000,
+                    "PerquisitesValue": 0,
+                    "ProfitsInSalary": 0,
+                    "IncomeNotified89A": 0,
+                    "NetSalary": 540000,
+                    "DeductionUs16": 50000,
+                    "AnnualValue": 0,
+                    "StandardDeduction": 0,
+                    "IncomeFromSal": 490000,
+                    "TotalIncomeOfHP": 0,
+                    "IncomeOthSrc": 12000,
+                    "GrossTotIncome": 502000,
+                    "UsrDeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000
+                    },
+                    "DeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000,
+                        "TotalChapVIADeductions": 125000
+                    },
+                    "TotalIncome": 377000
+                },
+                "ITR1_TaxComputation": {
+                    "TotalTaxPayable": 9000,
+                    "Rebate87A": 0,
+                    "TaxPayableOnRebate": 9000,
+                    "EducationCess": 400,
+                    "GrossTaxLiability": 9400,
+                    "Section89": 0,
+                    "NetTaxLiability": 9400,
+                    "TotalIntrstPay": 0,
+                    "IntrstPay": {},
+                    "TotTaxPlusIntrstPay": 9400
+                },
+                "TaxPaid": {
+                    "TaxesPaid": {
+                        "AdvanceTax": 5000,
+                        "SelfAssessmentTax": 4400
+                    },
+                    "BalTaxPayable": 0
+                },
+                "Refund": {
+                    "RefundDue": 0,
+                    "BankAccountDtls": {
+                        "AccountNumber": "XXXXXXXXXXXX1238",
+                        "IFSCCode": "HDFC0000004",
+                        "BankName": "HDFC Bank"
+                    }
+                },
+                "Verification": {
+                    "Declaration": {
+                        "Name": "Person5 Surname5",
+                        "FatherName": "Father5",
+                        "Capacity": "Self"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "ITR": {
+            "ITR1": {
+                "CreationInfo": {
+                    "SWVersionNo": "1.0",
+                    "SWCreatedBy": "SW12340005",
+                    "JSONCreatedBy": "SW12340005",
+                    "JSONCreationDate": "2025-05-14",
+                    "IntermediaryCity": "Delhi",
+                    "Digest": "digest05xyzabcd1234567890abcdefghijklmnopqrst"
+                },
+                "PersonalInfo": {
+                    "AssesseeName": {
+                        "FirstName": "Person6",
+                        "MiddleName": "",
+                        "SurNameOrOrgName": "Surname6"
+                    },
+                    "PAN": "ABCD00006Z",
+                    "Address": {
+                        "ResidenceNo": "105",
+                        "Street": "Street 6",
+                        "CityOrTownOrDistrict": "CityName",
+                        "StateCode": "27",
+                        "PinCode": "400006"
+                    },
+                    "DOB": "1995-01-01",
+                    "EmployerCategory": "OTH",
+                    "AadhaarCardNo": "123456789005"
+                },
+                "ITR1_IncomeDeductions": {
+                    "GrossSalary": 550000,
+                    "Salary": 550000,
+                    "PerquisitesValue": 0,
+                    "ProfitsInSalary": 0,
+                    "IncomeNotified89A": 0,
+                    "NetSalary": 550000,
+                    "DeductionUs16": 50000,
+                    "AnnualValue": 0,
+                    "StandardDeduction": 0,
+                    "IncomeFromSal": 500000,
+                    "TotalIncomeOfHP": 0,
+                    "IncomeOthSrc": 12500,
+                    "GrossTotIncome": 512500,
+                    "UsrDeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000
+                    },
+                    "DeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000,
+                        "TotalChapVIADeductions": 125000
+                    },
+                    "TotalIncome": 387500
+                },
+                "ITR1_TaxComputation": {
+                    "TotalTaxPayable": 10000,
+                    "Rebate87A": 0,
+                    "TaxPayableOnRebate": 10000,
+                    "EducationCess": 450,
+                    "GrossTaxLiability": 10450,
+                    "Section89": 0,
+                    "NetTaxLiability": 10450,
+                    "TotalIntrstPay": 0,
+                    "IntrstPay": {},
+                    "TotTaxPlusIntrstPay": 10450
+                },
+                "TaxPaid": {
+                    "TaxesPaid": {
+                        "AdvanceTax": 5500,
+                        "SelfAssessmentTax": 4950
+                    },
+                    "BalTaxPayable": 0
+                },
+                "Refund": {
+                    "RefundDue": 0,
+                    "BankAccountDtls": {
+                        "AccountNumber": "XXXXXXXXXXXX1239",
+                        "IFSCCode": "HDFC0000005",
+                        "BankName": "HDFC Bank"
+                    }
+                },
+                "Verification": {
+                    "Declaration": {
+                        "Name": "Person6 Surname6",
+                        "FatherName": "Father6",
+                        "Capacity": "Self"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "ITR": {
+            "ITR1": {
+                "CreationInfo": {
+                    "SWVersionNo": "1.0",
+                    "SWCreatedBy": "SW12340006",
+                    "JSONCreatedBy": "SW12340006",
+                    "JSONCreationDate": "2025-05-14",
+                    "IntermediaryCity": "Delhi",
+                    "Digest": "digest06xyzabcd1234567890abcdefghijklmnopqrst"
+                },
+                "PersonalInfo": {
+                    "AssesseeName": {
+                        "FirstName": "Person7",
+                        "MiddleName": "",
+                        "SurNameOrOrgName": "Surname7"
+                    },
+                    "PAN": "ABCD00007Z",
+                    "Address": {
+                        "ResidenceNo": "106",
+                        "Street": "Street 7",
+                        "CityOrTownOrDistrict": "CityName",
+                        "StateCode": "27",
+                        "PinCode": "400007"
+                    },
+                    "DOB": "1996-01-01",
+                    "EmployerCategory": "OTH",
+                    "AadhaarCardNo": "123456789006"
+                },
+                "ITR1_IncomeDeductions": {
+                    "GrossSalary": 560000,
+                    "Salary": 560000,
+                    "PerquisitesValue": 0,
+                    "ProfitsInSalary": 0,
+                    "IncomeNotified89A": 0,
+                    "NetSalary": 560000,
+                    "DeductionUs16": 50000,
+                    "AnnualValue": 0,
+                    "StandardDeduction": 0,
+                    "IncomeFromSal": 510000,
+                    "TotalIncomeOfHP": 0,
+                    "IncomeOthSrc": 13000,
+                    "GrossTotIncome": 523000,
+                    "UsrDeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000
+                    },
+                    "DeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000,
+                        "TotalChapVIADeductions": 125000
+                    },
+                    "TotalIncome": 398000
+                },
+                "ITR1_TaxComputation": {
+                    "TotalTaxPayable": 11000,
+                    "Rebate87A": 0,
+                    "TaxPayableOnRebate": 11000,
+                    "EducationCess": 500,
+                    "GrossTaxLiability": 11500,
+                    "Section89": 0,
+                    "NetTaxLiability": 11500,
+                    "TotalIntrstPay": 0,
+                    "IntrstPay": {},
+                    "TotTaxPlusIntrstPay": 11500
+                },
+                "TaxPaid": {
+                    "TaxesPaid": {
+                        "AdvanceTax": 6000,
+                        "SelfAssessmentTax": 5500
+                    },
+                    "BalTaxPayable": 0
+                },
+                "Refund": {
+                    "RefundDue": 0,
+                    "BankAccountDtls": {
+                        "AccountNumber": "XXXXXXXXXXXX1240",
+                        "IFSCCode": "HDFC0000006",
+                        "BankName": "HDFC Bank"
+                    }
+                },
+                "Verification": {
+                    "Declaration": {
+                        "Name": "Person7 Surname7",
+                        "FatherName": "Father7",
+                        "Capacity": "Self"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "ITR": {
+            "ITR1": {
+                "CreationInfo": {
+                    "SWVersionNo": "1.0",
+                    "SWCreatedBy": "SW12340007",
+                    "JSONCreatedBy": "SW12340007",
+                    "JSONCreationDate": "2025-05-14",
+                    "IntermediaryCity": "Delhi",
+                    "Digest": "digest07xyzabcd1234567890abcdefghijklmnopqrst"
+                },
+                "PersonalInfo": {
+                    "AssesseeName": {
+                        "FirstName": "Person8",
+                        "MiddleName": "",
+                        "SurNameOrOrgName": "Surname8"
+                    },
+                    "PAN": "ABCD00008Z",
+                    "Address": {
+                        "ResidenceNo": "107",
+                        "Street": "Street 8",
+                        "CityOrTownOrDistrict": "CityName",
+                        "StateCode": "27",
+                        "PinCode": "400008"
+                    },
+                    "DOB": "1997-01-01",
+                    "EmployerCategory": "OTH",
+                    "AadhaarCardNo": "123456789007"
+                },
+                "ITR1_IncomeDeductions": {
+                    "GrossSalary": 570000,
+                    "Salary": 570000,
+                    "PerquisitesValue": 0,
+                    "ProfitsInSalary": 0,
+                    "IncomeNotified89A": 0,
+                    "NetSalary": 570000,
+                    "DeductionUs16": 50000,
+                    "AnnualValue": 0,
+                    "StandardDeduction": 0,
+                    "IncomeFromSal": 520000,
+                    "TotalIncomeOfHP": 0,
+                    "IncomeOthSrc": 13500,
+                    "GrossTotIncome": 533500,
+                    "UsrDeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000
+                    },
+                    "DeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000,
+                        "TotalChapVIADeductions": 125000
+                    },
+                    "TotalIncome": 408500
+                },
+                "ITR1_TaxComputation": {
+                    "TotalTaxPayable": 12000,
+                    "Rebate87A": 0,
+                    "TaxPayableOnRebate": 12000,
+                    "EducationCess": 550,
+                    "GrossTaxLiability": 12550,
+                    "Section89": 0,
+                    "NetTaxLiability": 12550,
+                    "TotalIntrstPay": 0,
+                    "IntrstPay": {},
+                    "TotTaxPlusIntrstPay": 12550
+                },
+                "TaxPaid": {
+                    "TaxesPaid": {
+                        "AdvanceTax": 6500,
+                        "SelfAssessmentTax": 6050
+                    },
+                    "BalTaxPayable": 0
+                },
+                "Refund": {
+                    "RefundDue": 0,
+                    "BankAccountDtls": {
+                        "AccountNumber": "XXXXXXXXXXXX1241",
+                        "IFSCCode": "HDFC0000007",
+                        "BankName": "HDFC Bank"
+                    }
+                },
+                "Verification": {
+                    "Declaration": {
+                        "Name": "Person8 Surname8",
+                        "FatherName": "Father8",
+                        "Capacity": "Self"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "ITR": {
+            "ITR1": {
+                "CreationInfo": {
+                    "SWVersionNo": "1.0",
+                    "SWCreatedBy": "SW12340008",
+                    "JSONCreatedBy": "SW12340008",
+                    "JSONCreationDate": "2025-05-14",
+                    "IntermediaryCity": "Delhi",
+                    "Digest": "digest08xyzabcd1234567890abcdefghijklmnopqrst"
+                },
+                "PersonalInfo": {
+                    "AssesseeName": {
+                        "FirstName": "Person9",
+                        "MiddleName": "",
+                        "SurNameOrOrgName": "Surname9"
+                    },
+                    "PAN": "ABCD00009Z",
+                    "Address": {
+                        "ResidenceNo": "108",
+                        "Street": "Street 9",
+                        "CityOrTownOrDistrict": "CityName",
+                        "StateCode": "27",
+                        "PinCode": "400009"
+                    },
+                    "DOB": "1998-01-01",
+                    "EmployerCategory": "OTH",
+                    "AadhaarCardNo": "123456789008"
+                },
+                "ITR1_IncomeDeductions": {
+                    "GrossSalary": 580000,
+                    "Salary": 580000,
+                    "PerquisitesValue": 0,
+                    "ProfitsInSalary": 0,
+                    "IncomeNotified89A": 0,
+                    "NetSalary": 580000,
+                    "DeductionUs16": 50000,
+                    "AnnualValue": 0,
+                    "StandardDeduction": 0,
+                    "IncomeFromSal": 530000,
+                    "TotalIncomeOfHP": 0,
+                    "IncomeOthSrc": 14000,
+                    "GrossTotIncome": 544000,
+                    "UsrDeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000
+                    },
+                    "DeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000,
+                        "TotalChapVIADeductions": 125000
+                    },
+                    "TotalIncome": 419000
+                },
+                "ITR1_TaxComputation": {
+                    "TotalTaxPayable": 13000,
+                    "Rebate87A": 0,
+                    "TaxPayableOnRebate": 13000,
+                    "EducationCess": 600,
+                    "GrossTaxLiability": 13600,
+                    "Section89": 0,
+                    "NetTaxLiability": 13600,
+                    "TotalIntrstPay": 0,
+                    "IntrstPay": {},
+                    "TotTaxPlusIntrstPay": 13600
+                },
+                "TaxPaid": {
+                    "TaxesPaid": {
+                        "AdvanceTax": 7000,
+                        "SelfAssessmentTax": 6600
+                    },
+                    "BalTaxPayable": 0
+                },
+                "Refund": {
+                    "RefundDue": 0,
+                    "BankAccountDtls": {
+                        "AccountNumber": "XXXXXXXXXXXX1242",
+                        "IFSCCode": "HDFC0000008",
+                        "BankName": "HDFC Bank"
+                    }
+                },
+                "Verification": {
+                    "Declaration": {
+                        "Name": "Person9 Surname9",
+                        "FatherName": "Father9",
+                        "Capacity": "Self"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "ITR": {
+            "ITR1": {
+                "CreationInfo": {
+                    "SWVersionNo": "1.0",
+                    "SWCreatedBy": "SW12340009",
+                    "JSONCreatedBy": "SW12340009",
+                    "JSONCreationDate": "2025-05-14",
+                    "IntermediaryCity": "Delhi",
+                    "Digest": "digest09xyzabcd1234567890abcdefghijklmnopqrst"
+                },
+                "PersonalInfo": {
+                    "AssesseeName": {
+                        "FirstName": "Person10",
+                        "MiddleName": "",
+                        "SurNameOrOrgName": "Surname10"
+                    },
+                    "PAN": "ABCD00010Z",
+                    "Address": {
+                        "ResidenceNo": "109",
+                        "Street": "Street 10",
+                        "CityOrTownOrDistrict": "CityName",
+                        "StateCode": "27",
+                        "PinCode": "400010"
+                    },
+                    "DOB": "1999-01-01",
+                    "EmployerCategory": "OTH",
+                    "AadhaarCardNo": "123456789009"
+                },
+                "ITR1_IncomeDeductions": {
+                    "GrossSalary": 590000,
+                    "Salary": 590000,
+                    "PerquisitesValue": 0,
+                    "ProfitsInSalary": 0,
+                    "IncomeNotified89A": 0,
+                    "NetSalary": 590000,
+                    "DeductionUs16": 50000,
+                    "AnnualValue": 0,
+                    "StandardDeduction": 0,
+                    "IncomeFromSal": 540000,
+                    "TotalIncomeOfHP": 0,
+                    "IncomeOthSrc": 14500,
+                    "GrossTotIncome": 554500,
+                    "UsrDeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000
+                    },
+                    "DeductUndChapVIA": {
+                        "Section80C": 100000,
+                        "Section80D": 25000,
+                        "TotalChapVIADeductions": 125000
+                    },
+                    "TotalIncome": 429500
+                },
+                "ITR1_TaxComputation": {
+                    "TotalTaxPayable": 14000,
+                    "Rebate87A": 0,
+                    "TaxPayableOnRebate": 14000,
+                    "EducationCess": 650,
+                    "GrossTaxLiability": 14650,
+                    "Section89": 0,
+                    "NetTaxLiability": 14650,
+                    "TotalIntrstPay": 0,
+                    "IntrstPay": {},
+                    "TotTaxPlusIntrstPay": 14650
+                },
+                "TaxPaid": {
+                    "TaxesPaid": {
+                        "AdvanceTax": 7500,
+                        "SelfAssessmentTax": 7150
+                    },
+                    "BalTaxPayable": 0
+                },
+                "Refund": {
+                    "RefundDue": 0,
+                    "BankAccountDtls": {
+                        "AccountNumber": "XXXXXXXXXXXX1243",
+                        "IFSCCode": "HDFC0000009",
+                        "BankName": "HDFC Bank"
+                    }
+                },
+                "Verification": {
+                    "Declaration": {
+                        "Name": "Person10 Surname10",
+                        "FatherName": "Father10",
+                        "Capacity": "Self"
+                    }
+                }
+            }
+        }
+    }
+]

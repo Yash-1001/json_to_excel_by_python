@@ -1,0 +1,91 @@
+{
+    "ITR": {
+        "ITR1": {
+            "CreationInfo": {
+                "SWVersionNo": "1.0",
+                "SWCreatedBy": "SW12345678",
+                "JSONCreatedBy": "SW12345678",
+                "JSONCreationDate": "2025-05-14",
+                "IntermediaryCity": "Delhi",
+                "Digest": "abcd1234efgh5678ijkl9012mnop3456qrst7890uvwx"
+            },
+            "PersonalInfo": {
+                "AssesseeName": {
+                    "FirstName": "Rahul",
+                    "MiddleName": "",
+                    "SurNameOrOrgName": "Verma"
+                },
+                "PAN": "ABCDE1234F",
+                "Address": {
+                    "ResidenceNo": "123",
+                    "Street": "MG Road",
+                    "CityOrTownOrDistrict": "Mumbai",
+                    "StateCode": "27",
+                    "PinCode": "400001"
+                },
+                "DOB": "1995-04-10",
+                "EmployerCategory": "OTH",
+                "AadhaarCardNo": "123456789012"
+            },
+            "ITR1_IncomeDeductions": {
+                "GrossSalary": 800000,
+                "Salary": 800000,
+                "PerquisitesValue": 0,
+                "ProfitsInSalary": 0,
+                "IncomeNotified89A": 0,
+                "NetSalary": 800000,
+                "DeductionUs16": 50000,
+                "AnnualValue": 0,
+                "StandardDeduction": 0,
+                "IncomeFromSal": 750000,
+                "TotalIncomeOfHP": 0,
+                "IncomeOthSrc": 20000,
+                "GrossTotIncome": 770000,
+                "UsrDeductUndChapVIA": {
+                    "Section80C": 100000,
+                    "Section80D": 25000
+                },
+                "DeductUndChapVIA": {
+                    "Section80C": 100000,
+                    "Section80D": 25000,
+                    "TotalChapVIADeductions": 125000
+                },
+                "TotalIncome": 645000
+            },
+            "ITR1_TaxComputation": {
+                "TotalTaxPayable": 29250,
+                "Rebate87A": 0,
+                "TaxPayableOnRebate": 29250,
+                "EducationCess": 1170,
+                "GrossTaxLiability": 30420,
+                "Section89": 0,
+                "NetTaxLiability": 30420,
+                "TotalIntrstPay": 0,
+                "IntrstPay": {},
+                "TotTaxPlusIntrstPay": 30420
+            },
+            "TaxPaid": {
+                "TaxesPaid": {
+                    "AdvanceTax": 15000,
+                    "SelfAssessmentTax": 15420
+                },
+                "BalTaxPayable": 0
+            },
+            "Refund": {
+                "RefundDue": 0,
+                "BankAccountDtls": {
+                    "AccountNumber": "XXXXXXXXXXXX1234",
+                    "IFSCCode": "HDFC0001234",
+                    "BankName": "HDFC Bank"
+                }
+            },
+            "Verification": {
+                "Declaration": {
+                    "Name": "Rahul Verma",
+                    "FatherName": "Suresh Verma",
+                    "Capacity": "Self"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "ITR": {
+        "ITR1": {
+            "CreationInfo": {
+                "SWVersionNo": "1.0",
+                "SWCreatedBy": "SW12345678",
+                "JSONCreatedBy": "SW12345678",
+                "JSONCreationDate": "2025-05-14",
+                "IntermediaryCity": "Delhi",
+                "Digest": "abc123xyz456abc123xyz456abc123xyz456abc123xyz456"
+            },
+            "PersonalInfo": {
+                "AssesseeName": {
+                    "FirstName": "Yash",
+                    "SurNameOrOrgName": "Kumar"
+                },
+                "PAN": "ABCDE1234F",
+                "Address": {
+                    "ResidenceNo": "123",
+                    "Street": "MG Road",
+                    "CityOrTownOrDistrict": "Indore",
+                    "StateCode": "09",
+                    "PinCode": "452001"
+                },
+                "DOB": "2003-01-01",
+                "EmployerCategory": "OTH",
+                "AadhaarCardNo": "123412341234"
+            },
+            "ITR1_IncomeDeductions": {
+                "GrossSalary": 600000,
+                "IncomeNotified89A": 0,
+                "NetSalary": 550000,
+                "DeductionUs16": 50000,
+                "AnnualValue": 0,
+                "StandardDeduction": 0,
+                "IncomeFromSal": 500000,
+                "TotalIncomeOfHP": 0,
+                "IncomeOthSrc": 10000,
+                "GrossTotIncome": 510000,
+                "UsrDeductUndChapVIA": {
+                    "Section80C": 150000,
+                    "Section80D": 25000
+                },
+                "DeductUndChapVIA": {
+                    "TotalChapVIADeductions": 175000
+                },
+                "TotalIncome": 335000
+            },
+            "ITR1_TaxComputation": {
+                "TotalTaxPayable": 5000,
+                "Rebate87A": 5000,
+                "TaxPayableOnRebate": 0,
+                "EducationCess": 0,
+                "GrossTaxLiability": 5000,
+                "Section89": 0,
+                "NetTaxLiability": 0,
+                "TotalIntrstPay": 0,
+                "IntrstPay": {
+                    "IntrstPayUs234A": 0,
+                    "IntrstPayUs234B": 0,
+                    "IntrstPayUs234C": 0
+                },
+                "TotTaxPlusIntrstPay": 0
+            },
+            "TaxPaid": {
+                "TaxesPaid": {
+                    "AdvanceTax": 0,
+                    "TDS": 5000,
+                    "SelfAssessmentTax": 0
+                },
+                "BalTaxPayable": 0
+            },
+            "Refund": {
+                "RefundDue": 0,
+                "BankAccountDtls": {
+                    "BankName": "SBI",
+                    "AccountNumber": "12345678901",
+                    "IFSCCode": "SBIN0000001"
+                }
+            },
+            "Verification": {
+                "Declaration": {
+                    "Name": "Yash Kumar",
+                    "FatherName": "Ramesh Kumar",
+                    "Capacity": "Self"
+                }
+            }
+        }
+    }
+}
